@@ -9,11 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "lucide-react": "latest",
     "next": "^14.2.17",
     "openai": "^4.71.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "lucide-react": "latest"
+    "style-loader": "^4.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
